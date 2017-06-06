@@ -1,1 +1,8 @@
-### TODO
+### Day 1
+
+This is Processing.
+
+- Objective
+- Agenda
+- Source Files
+- Assignment
