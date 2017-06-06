@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/strawn-ed/processing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Welcome to Camp Troubie 2017!
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+hello, world!
 ```
+
+You will be able to find all content and information about our course here. For each class you will have access to an agenda, objectives, source files, and assignments. I look forward to our time together over these few weeks!
+
+
+## Calendar
+
+- Day 1
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Download Processing
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/strawn-ed/processing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Since this is a summer camp, there is no homework. However, if you'd like to explore Processing at home, you are free (and encouraged!) to download the Processing IDE [here](https://processing.org/download/).
 
-### Support or Contact
+## Contact Me
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I am available before/after class to answer any questions you have.
