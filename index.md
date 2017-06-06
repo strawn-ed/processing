@@ -9,9 +9,7 @@ You will be able to find all content and information about our course here. For 
 
 ## Calendar
 
-- Day 1
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Day 1](day1.md)
 
 ## Download Processing
 
