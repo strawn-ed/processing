@@ -3,6 +3,7 @@
 ```
 hello, world!
 ```
+This class is an introduction to programming using the language Processing. Processing is "a language for learning how to code within the context of the visual arts" ([Processing.org](https://processing.org/)). Our time together will involve many hands-on projects, so you get the experience of directly applying what you are learning. We will split our time each class session between instruction and practice. By the end of the course, you will be comfortable with important programming concepts, such as variables, loops, and conditionals, and will have a portfolio full of original artwork and designs. My goal is that you learn a lot about programming and have fun doing so!
 
 You will be able to find all content and information about our course here. For each class you will have access to an agenda, objectives, source files, and assignments. I look forward to our time together over these few weeks!
 
@@ -46,4 +47,4 @@ I am available before/after class to answer any questions you have.
 
 ---
 
-<b id="f1"><sup>1</sup></b>In programming, we typically start counting at 0, not 1. [↩](#a1)
+<b id="f1"><sup>1</sup></b>In programming, we typically start counting at 0, not 1. We will talk more about this throughout the course. [↩](#a1)
