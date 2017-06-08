@@ -28,6 +28,7 @@ Since this is a summer camp, there is no homework. However, if you'd like to exp
 ## Additional Processing Resources
 
 - [Raspberry Pi Foundation's Introduction to Processing](https://www.raspberrypi.org/learning/introduction-to-processing/worksheet/)
+- [YouTube Channel: The Coding Train](https://www.youtube.com/user/shiffman/playlists)
 
 ## Contact Me
 
