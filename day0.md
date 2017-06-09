@@ -7,15 +7,15 @@
 - Save a sketch
 - Run a sketch
 - Draw an ellipse
-- Make inferences about a piece of code
+- Make inferences about code
 
 ### Agenda
 - Introduction to the course
     - Course overview
-    - Use of classroom PCs
-    - Course website
-    - Student survey
-    - Welcome activity
+        - Course website
+        - Use of classroom PCs
+    - Student information survey
+    - Intro to code activity
 - Introduction to Processing (_GSP_ Ch. 1)
     - What is programming?
     - What is Processing?
