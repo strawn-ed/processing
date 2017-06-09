@@ -23,7 +23,7 @@ To guide our activites, we will be using Make's _Getting Started with Processing
 
 ## Download Processing
 
-Since this is a summer camp, there is no homework. However, if you'd like to explore Processing at home, you are free (and encouraged!) to download the Processing IDE [here](https://processing.org/download/).
+Since this is a summer camp, there is no homework. However, if you'd like to explore Processing at home, you are free (and encouraged!) to download the Processing IDE on your own computer. ([Download link](https://processing.org/download/))
 
 ## Additional Processing Resources
 
