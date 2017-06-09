@@ -12,8 +12,8 @@
 ### Agenda
 - Introduction to the course
     - Course overview
-        - Course website
-        - Use of classroom PCs
+    - Course website
+    - Use of classroom PCs
     - Student information survey
     - Intro to code activity
 - Introduction to Processing (_GSP_ Ch. 1)
