@@ -56,5 +56,5 @@
 - Create a sketch with each of the six shapes listed above
 - Complete as many Mickey Mouse sketches as you can
     - Level 1 - [Circles Only](/images/mickey.png)
-    - Level 2 - [Half-Red](/images/mickey_red.jpg)
-    - Level 3 - [Outline Only](/images/mickey_outline.jpg)
+    - Level 2 - [Mickey Ears](/images/mickey_ears.jpg)
+    - Level 3 - [Half-Red](/images/mickey_red.jpg)
