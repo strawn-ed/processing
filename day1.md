@@ -9,10 +9,6 @@
     - Rectangle
     - Ellipse
     - Arc
-- Control drawing order
-- Set shape properties
-- Draw ellipses according to different `ellipseMode()` settings
-    - Link to `ellipseMode()` [documentation](https://processing.org/reference/ellipseMode_.html)
 
 ### Agenda
 - Day 0 Review Activity
@@ -33,10 +29,10 @@
     - Sketch 3-11
     - Sketch 3-12
     - Sketch 3-13
-    - Sketch 3-14
 - Day 1 Assignment: Mickey Mouse
 
 ### Source Files
+- [Day0Review](/source-code/Day0Review.pde)
 - [Sketch 3-1](/source-code/Ex_03_01.pde)
 - [Sketch 3-2](/source-code/Ex_03_02.pde)
 - [Sketch 3-3](/source-code/Ex_03_03.pde)
@@ -50,11 +46,7 @@
 - [Sketch 3-11](/source-code/Ex_03_11.pde)
 - [Sketch 3-12](/source-code/Ex_03_12.pde)
 - [Sketch 3-13](/source-code/Ex_03_13.pde)
-- [Sketch 3-14](/source-code/Ex_03_14.pde)
 
 ### Assignment: BYL (Before you leave...)
 - Create a sketch with each of the six shapes listed above
-- Complete as many Mickey Mouse sketches as you can
-    - Level 1 - [Circles Only](/images/mickey.png)
-    - Level 2 - [Mickey Ears](/images/mickey_ears.jpg)
-    - Level 3 - [Half-Red](/images/mickey_red.jpg)
+    - Experiment with customizing shapes based on Sketch 3-11, 3-12, and 3-13
