@@ -5,7 +5,7 @@
 - Set shape properties
 - Draw ellipses according to different `ellipseMode()` settings
     - Link to `ellipseMode()` [documentation](https://processing.org/reference/ellipseMode_.html)
-- Customize RBG values
+- Customize RGB values
     - Set color
     - Set transparency
     - Use `background()`, `fill()`, and `stroke()` appropriately
