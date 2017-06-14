@@ -30,6 +30,8 @@
 - Day 2 Assignment: Color Wheel
 
 ### Source Files
+- [Day2Demo](Day2Demo.pde)
+- [ShapeDemo](/source-code/ShapeDemo.pde)
 - [Sketch 3-14](/source-code/Ex_03_14.pde)
 - [Sketch 3-15](/source-code/Ex_03_15.pde)
 - [Sketch 3-16](/source-code/Ex_03_16.pde)
