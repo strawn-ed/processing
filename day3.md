@@ -1,4 +1,4 @@
-## Day 2
+## Day 3
 
 ### Objective: SWBAT (Students will be able to...)
 - Synthesize concepts from Chapter 2

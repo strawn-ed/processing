@@ -1,4 +1,4 @@
-## Day 2
+## Day 4
 
 ### Objective: SWBAT (Students will be able to...)
 - Understand, declare, initialize, and update variables
