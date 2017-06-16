@@ -22,7 +22,4 @@
 _None_
 
 ### Assignment: BYL (Before you leave...)
-- Create a visual representation of the Olympic rings ([Google images](https://www.google.com/search?q=olympic+rings&safe=active&tbm=isch))
-    - Level 1 - 5 black circles
-    - Level 2 - 5 colored circles
-    - Level 3 - 5 inter-locking circles
+- Complete an original sketch that shows mastery of Chapter 3 concepts
