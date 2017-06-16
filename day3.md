@@ -18,7 +18,6 @@
     - Drawing Mickey
     - Drawing a color wheel
 - Day 3 Assignment: Original Sketch
-- Robot 1
 
 ### Source Files
 _None_

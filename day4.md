@@ -4,24 +4,21 @@
 - Understand, declare, initialize, and update variables
 
 ### Agenda
-- Nicole's code demo
-- Olympic Rings (move to variables!)
+- Finish Chapter 3 Sketch (30 minutes)
+- Intro to Chapter 4
+    - Nicole's code demo: color wheel with variables
+    - Read Chapter 4 p. 35-40
+- Day 4 Assignment: Olympic Rings
+- Week 0 Exit Ticket
 
 ### Source Files
-- [Day2Demo](/source-code/Day2Demo.pde)
-- [ShapeDemo](/source-code/ShapeDemo.pde)
-- [Sketch 3-14](/source-code/Ex_03_14.pde)
-- [Sketch 3-15](/source-code/Ex_03_15.pde)
-- [Sketch 3-16](/source-code/Ex_03_16.pde)
-- [Sketch 3-17](/source-code/Ex_03_17.pde)
-- [Sketch 3-18](/source-code/Ex_03_18.pde)
-- [Sketch 3-19](/source-code/Ex_03_19.pde)
-- [Sketch 3-20](/source-code/Ex_03_20.pde)
-- [Sketch 3-21](/source-code/Ex_03_21.pde)
+- [Sketch 4-1](/source-code/Ex_04_01.pde)
+- [Sketch 4-2](/source-code/Ex_04_02.pde)
+- [Sketch 4-3](/source-code/Ex_04_03.pde)
+- [Sketch 4-4](/source-code/Ex_04_04.pde)
 
 ### Assignment: BYL (Before you leave...)
-- Complete as many Mickey Mouse sketches as you can
-    - Level 1 - [Circles Only](/images/mickey.png)
-    - Level 2 - [Mickey Ears](/images/mickey_ears.jpg)
-    - Level 3 - [Half-Red](/images/mickey_red.jpg)
-- Replicate the color wheel seen [here](/images/color_wheel.jpg)
+- Create a visual representation of the Olympic rings ([Google images](https://www.google.com/search?q=olympic+rings&safe=active&tbm=isch))
+    - Level 1 - 5 black circles
+    - Level 2 - 5 colored circles
+    - Level 3 - 5 inter-locking circles
