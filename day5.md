@@ -1,4 +1,4 @@
-## Day 4
+## Day 5
 
 ### Objective: SWBAT (Students will be able to...)
 - Understand, declare, initialize, and update variables
@@ -16,7 +16,8 @@
 - [Sketch 4-4](/source-code/Ex_04_04.pde)
 
 ### Assignment: BYL (Before you leave...)
-- Create a visual representation of the Olympic rings ([Google images](https://www.google.com/search?q=olympic+rings&safe=active&tbm=isch))
+- Create a visual representation of the Olympic rings using variables ([Google images](https://www.google.com/search?q=olympic+rings&safe=active&tbm=isch))
     - Level 1 - 5 black circles
     - Level 2 - 5 colored circles
     - Level 3 - 5 inter-locking circles
+    - _Hint_: since your program must use variables, Sketch 4-1 and Sketch 4-2 can be used as “starter code” to help you plot the five circles
