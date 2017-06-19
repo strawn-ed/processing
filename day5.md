@@ -4,6 +4,7 @@
 - Understand, declare, initialize, and update variables
 
 ### Agenda
+- Week 0 Exit Ticket Feedback
 - Intro to Chapter 4
     - Nicole's code demo: color wheel with variables
     - Read Chapter 4 p. 35-40
