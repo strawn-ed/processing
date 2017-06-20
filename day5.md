@@ -8,7 +8,7 @@
 - Intro to Chapter 4
     - Nicole's code demo: color wheel with variables
     - Read Chapter 4 p. 35-40
-- Day 4 Assignment: Olympic Rings
+- Day 5 Assignment: Olympic Rings
 
 ### Source Files
 - [Sketch 4-1](/source-code/Ex_04_01.pde)
