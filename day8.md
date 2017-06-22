@@ -28,3 +28,4 @@ _Optional_
 - Complete the Sparkfun Activity: `Processing the Mouse`
     - Extend the program's functionality by adding more variables and user interaction
     - Create your own original program that interacts with the movements and events associated with the mouse (`mousePressed`, `mouseClicked()`, `mouseDragged()`)
+    - _Optional_: Add "easing" to track your mouse movements more smoothly (see Sketch 5-8 and Sketch 5-9 - pg. 54-56 in _GSP_)
