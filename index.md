@@ -12,7 +12,7 @@ You will be able to find all content and information about our course here. For 
 |           | Monday    | Tuesday   | Wednesday | Thursday  | Friday    |
 |:---:      |:---:      | :---:     | :---:     | :---:     | :---:     |
 |**Week 0**<sup id="a1">[1](#f1)</sup>  | [Day 0](day0.md)  | [Day 1](day1.md) | [Day 2](day2.md)  | [Day 3](day3.md)     | [Day 4](day4.md)     |
-|**Week 1** | [Day 5](day5.md)     | [Day 6](day6.md)     | [Day 7](day7.md)     | Day 8     | Day 9     |
+|**Week 1** | [Day 5](day5.md)     | [Day 6](day6.md)     | [Day 7](day7.md)     | [Day 8](day8.md)     | Day 9     |
 |**Week 2** | Day 10    | Day 11    | Day 12    | Day 13    | Day 14    |
 |**Week 3** | Day 15    | ---       | Day 16    | Day 17    | Day 18    |
 

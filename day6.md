@@ -8,11 +8,11 @@
 - Review variables
 - Go over Processing's order of operations
     - Operator Precedence Activity
-- Day 6 Assignment: If() or Else
+- Day 6 Assignment: `If() or Else`
 
 ### Source Files
 _None_
 
 ### Assignment: BYL (Before you leave...)
-- Complete the Sparkfun Activity
+- Complete the Sparkfun Activity: `If() or Else`
     - Extend the program's functionality by adding more variables and user interaction
