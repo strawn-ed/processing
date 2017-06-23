@@ -9,6 +9,7 @@
     - Discuss the process of creating pixel art
     - Plot out ideas on graph paper
     - Work on computers
+- Week 1 Exit Ticket
 
 ### Source Files
 _None_
