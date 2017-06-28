@@ -9,7 +9,8 @@
     - Tips and Tricks
 - Day 18 Assignment: Google Doodle
     - Explore official [Google Doodles](https://www.google.com/doodles)
-- Save your work
+- Save work to flash drive (optional)
+- Distribute books to take home
 
 ### Source Files
 _None_
