@@ -13,5 +13,6 @@
 _None_
 
 ### Assignment: BYL (Before you leave...)
-- Create an original sketch of a lego family (full instructions [here](http://courses.cs.washington.edu/courses/cse120/17sp/asmts/lego_family.html)
+- Create an original sketch of a lego family (full instructions [here](http://courses.cs.washington.edu/courses/cse120/17sp/asmts/lego_family.html))
+    - This assignment is similar in spirit to Pixel Art, but here you are not limited to squares (as shown by lines and ellipses in the example)
     - _Source_: University of Washington CSE120 
